@@ -233,6 +233,12 @@
         "desktop_layout": "left",
         "mobile_layout": "column"
       }
+    },
+    "16282634883c17168d": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form"
+      }
     }
   },
   "order": [
@@ -241,6 +247,7 @@
     "1628263171958556ba",
     "162826340713463ad9",
     "1628263413c1b8db6a",
-    "1628263450f7a05843"
+    "1628263450f7a05843",
+    "16282634883c17168d"
   ]
 }
